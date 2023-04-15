@@ -23,6 +23,7 @@ scikit-learn = "*"
 plotly = "*"
 datasets = "*"
 evaluate = "*"
+rouge-score = "*"
 
 [dev-packages]
 
