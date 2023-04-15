@@ -6,6 +6,21 @@ name = "pypi"
 [packages]
 notebook = "*"
 ipywidgets = "*"
+numpy = "*"
+pandas = "*"
+nltk = "*"
+spacy = "*"
+requests = "*"
+beautifulsoup4 = "*"
+transformers = "*"
+torch = "*"
+sentence-transformers = "*"
+openai = "*"
+python-dotenv = "*"
+sumy = "*"
+wikipedia-api = "*"
+scikit-learn = "*"
+plotly = "*"
 
 [dev-packages]
 
