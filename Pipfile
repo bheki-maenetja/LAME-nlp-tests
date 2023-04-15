@@ -21,6 +21,8 @@ sumy = "*"
 wikipedia-api = "*"
 scikit-learn = "*"
 plotly = "*"
+datasets = "*"
+evaluate = "*"
 
 [dev-packages]
 
